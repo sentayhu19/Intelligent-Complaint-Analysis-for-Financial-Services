@@ -10,6 +10,7 @@ langchain
 fastapi
 uvicorn
 streamlit
+streamlit-chat
 jupyterlab
 ipykernel
 python-dotenv
@@ -17,3 +18,4 @@ faiss-cpu
 transformers
 accelerate
 tabulate
+huggingface_hub
