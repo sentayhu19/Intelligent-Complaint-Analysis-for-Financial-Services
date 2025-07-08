@@ -13,3 +13,7 @@ streamlit
 jupyterlab
 ipykernel
 python-dotenv
+faiss-cpu
+transformers
+accelerate
+tabulate
